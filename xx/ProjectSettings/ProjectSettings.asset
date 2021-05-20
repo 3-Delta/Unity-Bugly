@@ -673,7 +673,8 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLWasmStreaming: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    7: MIKU_RECOMPILE;UPR_LUA_PROFILER;USE_LUA
   platformArchitecture: {}
   scriptingBackend:
     Android: 0
