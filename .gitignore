@@ -21,3 +21,13 @@
 /xx/UnityEditor.UI.csproj
 /xx/UnityEngine.TestRunner.csproj
 /xx/UnityEngine.UI.csproj
+/.idea
+/Library
+/Logs
+/obj
+/Packages
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp-firstpass.csproj
+/UnityWebSocket.Runtime.csproj
+/xx.sln
